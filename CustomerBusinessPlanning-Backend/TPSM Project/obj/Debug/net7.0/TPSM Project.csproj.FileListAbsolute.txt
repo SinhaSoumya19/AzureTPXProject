@@ -1,0 +1,302 @@
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\TPSM Project.exe
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\TPSM Project.deps.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\TPSM Project.runtimeconfig.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\TPSM Project.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\TPSM Project.pdb
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.TPSM Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.build.TPSM Project.props
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPSM Project.props
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPSM Project.props
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\scopedcss\bundle\TPSM Project.styles.css
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.CopyComplete
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\refint\TPSM Project.dll
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.pdb
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\TPSM Project.genruntimeconfig.cache
+C:\Users\Asus\source\repos\TPSM Project\TPSM Project\obj\Debug\net7.0\ref\TPSM Project.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\appsettings.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.exe
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.deps.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.runtimeconfig.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.AssemblyReference.cache
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfoInputs.cache
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfo.cs
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.CoreCompileInputs.cache
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.TPSM Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.build.TPSM Project.props
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPSM Project.props
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPSM Project.props
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\scopedcss\bundle\TPSM Project.styles.css
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Pro.63ECC799.Up2Date
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\refint\TPSM Project.dll
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.genruntimeconfig.cache
+C:\Users\SOSINHA\Downloads\ProjectTPX-master\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\ref\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\appsettings.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.exe
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.deps.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.runtimeconfig.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.AssemblyReference.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfoInputs.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfo.cs
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.CoreCompileInputs.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.TPSM Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.build.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\scopedcss\bundle\TPSM Project.styles.css
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Pro.63ECC799.Up2Date
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\refint\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\TPSM Project.genruntimeconfig.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\ProjectTPX-master\TPSM Project\obj\Debug\net7.0\ref\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\appsettings.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\TPSM Project.exe
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\TPSM Project.deps.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\TPSM Project.runtimeconfig.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.AssemblyReference.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfoInputs.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.AssemblyInfo.cs
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.csproj.CoreCompileInputs.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.TPSM Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.build.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPSM Project.props
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\scopedcss\bundle\TPSM Project.styles.css
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Pro.63ECC799.Up2Date
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\refint\TPSM Project.dll
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.pdb
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\TPSM Project.genruntimeconfig.cache
+C:\Users\SOSINHA\Desktop\Azure TPX India Team\CustomerBusinessPlanning-Backend\TPSM Project\obj\Debug\net7.0\ref\TPSM Project.dll
